@@ -1,0 +1,10 @@
+<meta>
+	<oop>true</oop>
+
+	<script src="server.lua" type="server"/>
+	<script type="client" src="main.lua"/>
+	<export type="client" function="setVisible"/>
+	<export function="wyswietlAme" type="client"/>
+	<export function="setPlayerNametagShowing" type="client"/>
+
+</meta>
