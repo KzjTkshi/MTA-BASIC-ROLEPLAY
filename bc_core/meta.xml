@@ -1,0 +1,7 @@
+<meta>
+    <script src="settings.lua" type="server"/>
+    <script src="id.lua" type="server"/>
+    <script src="cmds.lua" type="server"/>
+    <script src="save.lua" type="server"/>
+    <script src="cmds_c.lua" type="client"/>
+</meta>

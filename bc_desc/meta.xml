@@ -1,0 +1,4 @@
+<meta>
+    <script src="opisc.lua" type="client"/>
+    <script src="s.lua" type="server"/>
+</meta>
